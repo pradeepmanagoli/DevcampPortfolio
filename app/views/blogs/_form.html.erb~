@@ -18,7 +18,7 @@
 
   <div class="field">
     <%= form.label :body %>
-    <%= form.text_area :subtitle, id: :subtitle %>
+    <%= form.text_area :subtitle, id: :blog_body %>
   </div>
 
 
